@@ -1,0 +1,37 @@
+div.background{
+    border: 1px solid red;
+}
+div.box1{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 100px;
+}
+div.box2{
+    display: inline-block;
+    vertical-align: top;
+}
+div.box3{
+    display: inline-block;
+    vertical-align: top;
+}
+div.box4{
+    display: inline-block;
+    vertical-align: top;
+}
+div.box5{
+    display: inline-block;
+    vertical-align: top;
+}
+div.box6{
+    display: inline-block;
+    vertical-align: top;
+}
+div.box7{
+    display: inline-block;
+    vertical-align: top;
+}
+div.box8{
+    display: inline-block;
+    vertical-align: top;
+}
